@@ -1,0 +1,29 @@
+body{
+    font-style: oblique;
+    text-align: center;
+}
+header nav{
+    background-color: rgb(0, 0, 0);
+
+}
+header nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 0);
+    font-size: 30px;
+    padding: 20px ;
+
+}
+section aside{
+    background-color: red;
+    transform: ;
+    width: 50%;
+    height: 50%;
+}
+
+.sidebar aside{
+    background-color: blue;
+}
+footer{
+    background-color: yellow;
+
+}
